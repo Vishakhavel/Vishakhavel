@@ -69,6 +69,6 @@
 
 
 
-[website]: https://codeSTACKr.com
+[website]: https://vishakhavel.github.io/cv/
 [youtube]: https://www.youtube.com/channel/UCNSfx1qzCsNYbvowYxBURtQ
 [linkedin]: https://www.linkedin.com/in/vishakhavel-shanmuganathan-376b44197
