@@ -6,7 +6,10 @@
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 
-https://img.shields.io/youtube/channel/views/UCNSfx1qzCsNYbvowYxBURtQ?style=social
+
+[<img src="https://img.shields.io/youtube/channel/views/UCNSfx1qzCsNYbvowYxBURtQ?style=social
+" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+
 
 ## I'm a computer science undergraduate from VIT Chennai.
 
