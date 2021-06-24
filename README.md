@@ -76,19 +76,17 @@
 
 ---
 
-<details>
+
  
 ![Vishakhavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakhavel&show_icons=true&theme=synthwave)
 
-</details>
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vishakhavel&repo=Vishakhavel)](https://github.com/Vishakhavel/Vishakhavel)
 
-</details>
+
 
 [website]: https://codeSTACKr.com
 [youtube]: https://www.youtube.com/channel/UCNSfx1qzCsNYbvowYxBURtQ
