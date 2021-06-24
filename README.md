@@ -1,5 +1,12 @@
 ### Hi, I'm Vishakhavel! [This is my CV!][website] 👋
 
+## I'm a computer science undergraduate from VIT Chennai.
+
+-  I'm interested in Cloud Computing and Full Stack Software development.
+-  I completed my intersnhip in Futurenet technologies ( November 2020 - February 2021), my role being that of a Full Stack Developer.
+- ⚡ I'm a guitarist for the bands - "Frequency" and "Azrael"
+
+
 <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
 
 
@@ -11,12 +18,7 @@
 
 ![Vishakhavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakhavel&show_icons=true&theme=synthwave)
 
-## I'm a computer science undergraduate from VIT Chennai.
 
--  I'm interested in Cloud Computing and Full Stack Software development.
--  I completed my intersnhip in Futurenet technologies ( November 2020 - February 2021), my role being that of a Full Stack Developer.
-- ⚡ I'm a guitarist for the bands - "Frequency" and "Azrael"
-- 🎶I'm a passionate rock music lover and love bands like Led Zeppelin, Aerosmith, Guns N' Roses, Jimi Hendrix etc.
 
 
 ## 👀 My top languages.
