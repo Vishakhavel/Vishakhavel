@@ -1,7 +1,9 @@
 ### Hi, I'm Vishakhavel aka Vichu [Vishakhavel's CV][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![YouTube Subscribe](<iframe src="https://counts.live/embeds/youtube-subscriber-count/UCNSfx1qzCsNYbvowYxBURtQ/small" frameborder="0" style="height:80px;width:300px;border:none;" />)
+[![YouTube Subscribe]()] ()]
+
+[<iframe src="https://counts.live/embeds/youtube-subscriber-count/UCNSfx1qzCsNYbvowYxBURtQ/small" frameborder="0" style="height:80px;width:300px;border:none;" />]
 
 ## I'm a computer science undergraduate from VIT Chennai.
 
