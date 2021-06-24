@@ -1,5 +1,9 @@
 ### Hi, I'm Vishakhavel! [This is my CV!][website] 👋
 
+<img width="22px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
+
+
+
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 
