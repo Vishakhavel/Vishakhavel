@@ -8,7 +8,7 @@
 
 
 
-## 📕 I'm an AWS certfified Developer Associate.
+## 📕 I'm an AWS certfified DEVELOPER ASSOCIATE.
  <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
 
 
@@ -27,7 +27,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakhavel&layout=compact)](https://github.com/Vishakhavel)
 
 
-### Connect with me:
+### CONNECT WITH ME!:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
