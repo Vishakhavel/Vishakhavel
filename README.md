@@ -14,7 +14,7 @@
 
 ## 👀 My top languages.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakhavel&layout=compact)](https://github.com/Vishakhavel/Vishakhavel)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakhavel&layout=compact)](https://github.com/Vishakhavel)
 
 
 ### Spotify Playing 🎧
