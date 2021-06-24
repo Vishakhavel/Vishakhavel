@@ -33,16 +33,21 @@
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+
+<br />
+
+
+<br />
 <br />
 
 ---
 
-### 📺 This is my YouTube channel!
+### 📺 CHECK OUT MY YOUTUBE CHANNEL!
 
 <!-- YOUTUBE:START -->
 - [Machine learning blues: ](https://www.youtube.com/watch?v=drWPTjPH_Cw&ab_channel=VichuPlays)
 - [MASTER BGM (Anirudh Ravichander)](https://www.youtube.com/watch?v=BbHG-UG_dRU&ab_channel=VichuPlays)
-- [Sirrikadhey cover (Anirudh Ravichander)](https://www.youtube.com/watch?v=k88EhCNkEV0&ab_channel=VichuPlays)
+- ["SIRRIKADHEY" (Anirudh Ravichander)](https://www.youtube.com/watch?v=k88EhCNkEV0&ab_channel=VichuPlays)
 - [IIT Chennai  SAARANG'2021 | Instrumentals finals](https://www.youtube.com/watch?v=k88EhCNkEV0&ab_channel=VichuPlays)
 <!-- YOUTUBE:END -->
 
@@ -50,6 +55,17 @@
 
 ---
 
+
+---
+
+
+ 
+
+
+  <summary>:zap: GitHub Stats</summary>
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vishakhavel&repo=Vishakhavel)](https://github.com/Vishakhavel/Vishakhavel)
 
 
 
