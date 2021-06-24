@@ -5,6 +5,7 @@
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
+![Vishakhavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakhavel&show_icons=true&theme=synthwave)
 
 ## I'm a computer science undergraduate from VIT Chennai.
 
@@ -78,7 +79,6 @@
 
 
  
-![Vishakhavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakhavel&show_icons=true&theme=synthwave)
 
 
   <summary>:zap: GitHub Stats</summary>
