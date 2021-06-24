@@ -81,16 +81,13 @@
 
 <details>
  
-![Vishakhavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakhavel&show_icons=true)
+![Vishakhavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakhavel&show_icons=true&theme=synthwave)
 
 </details>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
- 
-
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakhavel)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Vishakhavel&repo=Vishakhavel)](https://github.com/Vishakhavel/Vishakhavel)
 
