@@ -8,9 +8,9 @@
 
 
 
+## 📕 I'm an AWS certfified Developer Associate.
 - <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
 
-### 📕 I'm an AWS certfified Developer Associate.
 
 - SCORE: 941/1000.
 - [CLICK HERE TO VIEW MY AWS DEVELOPER ASSOCIATE BADGE](https://www.credly.com/badges/2e8cbd82-6fd2-428a-b992-3aae5020cf08/public_url)
