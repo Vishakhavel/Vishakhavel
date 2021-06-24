@@ -1,6 +1,6 @@
 ### Hi, I'm Vishakhavel! [This is my CV!][website] 👋
 
-<img width="100px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
+<img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
 
 
 
