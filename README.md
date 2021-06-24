@@ -1,20 +1,15 @@
-### Hi, I'm Vishakhavel aka Vichu [Vishakhavel's CV][website] 👋
+### Hi, I'm Vishakhavel! [This is my CV!][website] 👋
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 
 [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-
-
-
-[<img src="https://img.shields.io/youtube/channel/views/UCNSfx1qzCsNYbvowYxBURtQ?style=social
-" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 
 ## I'm a computer science undergraduate from VIT Chennai.
 
-- 🌱 I’m an AWS certified developer associate.
--  I'm interested in cloud computing and full stack application development.
+-  I'm interested in Cloud Computing and Full Stack Software development.
+-  I completed my intersnhip in Futurenet technologies ( November 2020 - February 2021), my role being that of a Full Stack Developer.
 - ⚡ I'm a guitarist for the bands - "Frequency" and "Azrael"
 - 🎶I'm a passionate rock music lover and love bands like Led Zeppelin, Aerosmith, Guns N' Roses, Jimi Hendrix etc.
 
