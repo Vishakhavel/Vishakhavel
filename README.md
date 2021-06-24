@@ -1,10 +1,10 @@
-### Hi, I'm Vishakhavel! [This is my CV!][website] 👋
+## Hi, I'm Vishakhavel! [This is my CV!][website] 👋
 
 ## I'm a computer science undergraduate from VIT Chennai.
 
 -  💻 I'm interested in Cloud Computing and Full Stack Software development.
 -  🤓 I completed my intersnhip in Futurenet technologies ( November 2020 - February 2021), my role being that of a Full Stack Developer.
--  ⚡  I'm a guitarist for the bands - "Frequency" and "Azrael"
+-  ⚡  I'm the lead guitar player for the instrumental-duo band "Frequency" and the progressive rock band "Azrael".
 
 
 
