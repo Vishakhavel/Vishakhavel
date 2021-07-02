@@ -22,7 +22,9 @@
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Vishakhavel&color=green)
+![](https://komarev.com/ghpvc/?username=Vishakhavel&color=blueviolet)
+
+---
 
 
 
