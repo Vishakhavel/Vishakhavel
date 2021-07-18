@@ -1,4 +1,4 @@
-## Hi, I'm Vishakhavel! [This is my CV!][website] 👋
+## Hi, I'm Vishakhavel! [This is my CV!][https://drive.google.com/file/d/12Yxc3pFRvs26J8ipOS1mRFADli-lw4dt/view?usp=sharing] 👋
 
 ## I'm a computer science undergraduate from VIT Chennai.
 
