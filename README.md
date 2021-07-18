@@ -1,4 +1,4 @@
-## Hi, I'm Vishakhavel! [This is my CV!][https://drive.google.com/file/d/12Yxc3pFRvs26J8ipOS1mRFADli-lw4dt/view?usp=sharing] 👋
+## Hi, I'm Vishakhavel! [This is my CV!][cv] 👋
 
 ## I'm a computer science undergraduate from VIT Chennai.
 
@@ -70,3 +70,4 @@
 [website]: https://vishakhavel.github.io/cv/
 [youtube]: https://www.youtube.com/channel/UCNSfx1qzCsNYbvowYxBURtQ
 [linkedin]: https://www.linkedin.com/in/vishakhavel-shanmuganathan-376b44197
+[cv]: https://drive.google.com/file/d/12Yxc3pFRvs26J8ipOS1mRFADli-lw4dt/view?usp=sharing
