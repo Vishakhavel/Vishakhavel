@@ -3,7 +3,7 @@
 ## I'm a computer science undergraduate from VIT Chennai.
 
 -  💻 I'm interested in Cloud Computing and Full Stack Software development.
--  🤓 I completed my intersnhip from Futurenet technologies ( November 2020 - February 2021), my role being that of a Full Stack Developer and Cloud Solutions Architect.
+-  🤓 I completed my internship from Futurenet technologies ( November 2020 - February 2021), my role being that of a Full Stack Developer and Cloud Solutions Architect.
 -  ⚡  I'm the lead guitar player for the instrumental-duo band "Frequency" and the progressive rock band "Azrael".
 
 
