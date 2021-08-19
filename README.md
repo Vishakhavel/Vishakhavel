@@ -1,15 +1,15 @@
-## Hi, I'm Vishakhavel! [This is my CV!][cv] 👋
+## Hi, I'm Vishakhavel! [This is my CV!][cv]
 
 ## I'm a Computer Science and Engineering Undergraduate from VIT Chennai.
 
--  💻 I'm interested in Cloud based software development, Backend Development (Spring developer), DevOps, Platform Engineering and Big Data Analytics.
--  🤓 I completed my internship from Futurenet Technologies ( November 2020 - February 2021), my role being that of a Full Stack Developer and Cloud Solutions Architect.
+-  I'm interested in Cloud based software development, Backend Development (Spring developer), DevOps, Platform Engineering and Big Data Analytics.
+-  I completed my internship from Futurenet Technologies ( November 2020 - February 2021), my role being that of a Full Stack Developer and Cloud Solutions Architect.
 -  ⚡  I'm the lead guitar player for the instrumental-duo band "Frequency" and the progressive rock band "Azrael".
 
 
 ---
 
-## 📕 I'm an AWS certfified DEVELOPER ASSOCIATE.
+## I'm an AWS certfified DEVELOPER ASSOCIATE.
  <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
 
 
@@ -29,7 +29,7 @@
 
 
 
-## 👀 My top languages.
+## My top languages.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakhavel&layout=compact)](https://github.com/Vishakhavel)
 
@@ -39,7 +39,7 @@
 
 ---
 
-### 📺 CHECK OUT MY YOUTUBE CHANNEL!
+### CHECK OUT MY YOUTUBE CHANNEL!
 
 <!-- YOUTUBE:START -->
 - [Machine learning blues: ](https://www.youtube.com/watch?v=drWPTjPH_Cw&ab_channel=VichuPlays)
