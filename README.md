@@ -14,7 +14,7 @@
 
 
 - SCORE: 941/1000.
-- [CLICK HERE TO VIEW MY AWS DEVELOPER ASSOCIATE BADGE](https://www.credly.com/badges/2e8cbd82-6fd2-428a-b992-3aae5020cf08/public_url)
+- [BADGE](https://www.credly.com/badges/2e8cbd82-6fd2-428a-b992-3aae5020cf08/public_url)
 
 ---
 
