@@ -2,6 +2,7 @@
 
 ## I'm a Computer Science and Engineering Undergraduate from VIT Chennai.
 
+-  I'm currently a Cloud Solutions Architect Intern at Sony Research India.
 -  I'm interested in Cloud based software development, Backend Development (Spring developer), DevOps, Platform Engineering and Big Data Analytics.
 -  I completed my internship from Futurenet Technologies ( November 2020 - February 2021), my role being that of a Full Stack Developer and Cloud Solutions Architect.
 -  ⚡  I'm the lead guitar player for the instrumental-duo band "Frequency" and the progressive rock band "Azrael".
