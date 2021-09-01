@@ -6,12 +6,12 @@
 -  I'm interested in Cloud based software development, Backend Development (Spring developer), DevOps, Platform Engineering and Big Data Analytics.
 -  University Teaching Assistant for the subject "Operating Systems".
 -  I was a Full Stack Developer intern from *Futurenet Technologies* ( November 2020 - February 2021 )
--  I'm the lead guitar player for the instrumental-duo band "Frequency" and the progressive rock band "Azrael".
+-  I'm the lead guitar player for the instrumental-duo band *Frequency* and the progressive rock band *Azrael*.
 
 
 ---
 
-## I'm a certfified AWS Developer-Associate.
+## I'm a certfified #AWS Developer-Associate.
  <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
 
 
