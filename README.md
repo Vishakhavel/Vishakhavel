@@ -71,4 +71,4 @@
 [website]: https://www.vishakhavel.com/
 [youtube]: https://www.youtube.com/channel/UCNSfx1qzCsNYbvowYxBURtQ
 [linkedin]: https://www.linkedin.com/in/vishakhavel-shanmuganathan-376b44197
-[cv]: https://drive.google.com/file/d/1BPcyZaeCV9LuDBqMu8LHJfvReLIRf4fZ/view?usp=sharing
+[cv]: https://drive.google.com/file/d/1e3HseRjjvNmqtDX2X_4O94LpjYlEZu5N/view?usp=sharing
