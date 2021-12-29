@@ -3,7 +3,7 @@
 ## I'm a Computer Engineering Undergraduate from Vellore Institute of Technology, Chennai.
 
 -  I'm currently a Cloud Solutions Architect Intern at *Sony Research India*.
--  I was a Full Stack Developement intern at *Futurenet Technologies* ( November 2020 - February 2021)
+-  I was a Softwarenz hhflkvicgu;ljdgrDevelopement intern at *Futurenet Technologies* ( November 2020 - February 2021)
 -  I was an Undergraduate Research Intern at the School of *Computer Science and Engineering, VIT Chennai* (May 2021 - August 2021)
 -  I'm interested in Cloud based software development, Backend Development (Spring developer), DevOps, Platform Engineering and Big Data Analytics.
 -  University Teaching Assistant for the subject "Operating Systems".
@@ -35,24 +35,6 @@
 ## My top languages.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakhavel&layout=compact)](https://github.com/Vishakhavel)
-
----
-
-
-
----
-
-### CHECK OUT MY YOUTUBE CHANNEL!
-
-<!-- YOUTUBE:START -->
-- [Machine learning blues: ](https://www.youtube.com/watch?v=drWPTjPH_Cw&ab_channel=VichuPlays)
-- [MASTER BGM (Anirudh Ravichander)](https://www.youtube.com/watch?v=BbHG-UG_dRU&ab_channel=VichuPlays)
-- ["SIRRIKADHEY" (Anirudh Ravichander)](https://www.youtube.com/watch?v=k88EhCNkEV0&ab_channel=VichuPlays)
-- [IIT Chennai  SAARANG'2021 | Instrumentals finals](https://www.youtube.com/watch?v=k88EhCNkEV0&ab_channel=VichuPlays)
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCNSfx1qzCsNYbvowYxBURtQ)
-
 
 ---
 
