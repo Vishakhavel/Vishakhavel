@@ -1,12 +1,11 @@
-## I'm Vishakhavel Shanmuganathan [CV][cv]
+## I'm Vishakhavel [CV][cv]
 
 ## I'm a Computer Engineering Undergraduate from Vellore Institute of Technology, Chennai.
 
--  I'm currently a Cloud Solutions Architect Intern at *Sony Research India*.
--  I was a Software Developement Intern at *Futurenet Technologies* ( November 2020 - February 2021)
+-  Cloud Solutions Architect Intern at *Sony Research India* (September 2021 - present).
+-  Software Developement Intern at *Futurenet Technologies* ( November 2020 - February 2021)
 -  I was an Undergraduate Research Intern at the School of *Computer Science and Engineering, VIT Chennai* (May 2021 - August 2021)
--  I'm interested in Cloud based software development, Backend Development (Spring developer), DevOps, Platform Engineering and Big Data Analytics.
--  University Teaching Assistant for the subject "Operating Systems".
+-  Cloud computing, Data Analytics, DevOps, Web Design, Coding.
 
 
 ---
