@@ -1,56 +1,13 @@
-## I'm Vishakhavel [CV][cv]
+### Hi there 👋, I'm Vishakhavel
+#### I'm a Software Engineer
+I've always believed in being a generalist. Computer Science and Software Engineering provides an avenue, where I find myself constantly trying to get better in different topics.
 
-## I'm a Computer Engineering Undergraduate from Vellore Institute of Technology, Chennai.
+Skills: AWS / JAVA / REACT / SPRING / EXPRESSJS / DSA / CODING
 
--  Cloud Solutions Architect Intern at *Sony Research India* (September 2021 - present).
--  Software Developement Intern at *Futurenet Technologies* ( November 2020 - February 2021)
--  I was an Undergraduate Research Intern at the School of *Computer Science and Engineering, VIT Chennai* (May 2021 - August 2021)
--  Cloud computing, Data Analytics, DevOps, Web Design, Coding.
-
-
----
-
-## I'm a certfified AWS Developer-Associate.
- <img width="150px" alt="badge" src="https://user-images.githubusercontent.com/54572908/123316353-5f69d680-d54a-11eb-8c34-ba1209c688cd.png">
+- 🔭 I’m currently working on Viewership Analysis 
+- 🌱 I’m currently learning ReactJS 
+- ⚡ Fun fact: I can play the guitar ;) 
 
 
-- SCORE: 941/1000.
-- [BADGE](https://www.credly.com/badges/2e8cbd82-6fd2-428a-b992-3aae5020cf08/public_url)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Vishakhavel)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/Vishakhavel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/channel/UCNSfx1qzCsNYbvowYxBURtQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.vishakhavel.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/azuredevops.svg' alt='azuredevops' height='40'>](we)  
 
----
-
-![Vishakhavel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishakhavel&show_icons=true&theme=synthwave)
-
----
-
-![](https://komarev.com/ghpvc/?username=Vishakhavel&color=blueviolet)
-
----
-
-
-
-
-## My top languages.
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vishakhavel&layout=compact)](https://github.com/Vishakhavel)
-
----
-
-
-### CONNECT WITH ME!:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-
- 
-
-
-[website]: https://www.vishakhavel.com/
-[youtube]: https://www.youtube.com/channel/UCNSfx1qzCsNYbvowYxBURtQ
-[linkedin]: https://www.linkedin.com/in/vishakhavel-shanmuganathan-376b44197
-[cv]: https://drive.google.com/file/d/1e3HseRjjvNmqtDX2X_4O94LpjYlEZu5N/view?usp=sharing
