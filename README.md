@@ -1,10 +1,10 @@
 ### Hi there 👋, I'm Vishakhavel
 #### I'm a Software Engineer
-I've always believed in being a generalist. Computer Science and Software Engineering provides an avenue, where I find myself constantly trying to get better in different topics.
+I like to think of myself as a generalist, who enjoys building end-to-end software products, leveraging multiple stacks.
 
 Skills: AWS / JAVA / REACT / SPRING / EXPRESSJS / DSA / CODING
 
-- 🔭 I’m currently working on Viewership Analysis 
+- 🔭 I’m currently working as a Cloud Solutions Intern @ Sony Research India
 - 🌱 I’m currently learning ReactJS 
 - ⚡ Fun fact: I can play the guitar ;) 
 
