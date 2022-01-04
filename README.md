@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Vishakhavel
+###  I'm Vishakhavel
 #### I'm a Software Engineer
 I like to think of myself as a generalist, who enjoys building end-to-end software products, leveraging multiple stacks.
 
