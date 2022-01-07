@@ -1,6 +1,7 @@
 ###  I'm Vishakhavel
 #### I'm a Software Engineer
-I like to think of myself as a generalist, who enjoys building end-to-end software products, leveraging multiple stacks.
+I like to think of myself as a generalist. 
+I find myself drawn towards building end-to-end software products and leveraging multiple stacks.
 
 Skills: AWS / JAVA / REACT / SPRING / EXPRESSJS / DSA / CODING
 
