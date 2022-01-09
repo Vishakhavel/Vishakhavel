@@ -1,12 +1,11 @@
 ###  I'm Vishakhavel
-#### I'm a Software Engineer
+#### I'm a senior year Computer Science Engineering student from VIT Chennai
 I like to think of myself as a generalist. 
 I find myself drawn towards building end-to-end software products and leveraging multiple stacks.
 
 Skills: AWS / JAVA / REACT / SPRING / EXPRESSJS / DSA / CODING
 
 - 🔭 I’m currently working as a Cloud Solutions Intern at *Sony Research India*
-- 🌱 Right now, I'm building a Cloud platform, that can automate the ETL processes and Data lake creation while ingesting medical and health records into a database.
 - ⚡ Fun fact: I can play the guitar ;) 
 
 
