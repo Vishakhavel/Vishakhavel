@@ -5,8 +5,8 @@ I find myself drawn towards building end-to-end software products and leveraging
 
 Skills: AWS / JAVA / REACT / SPRING / EXPRESSJS / DSA / CODING
 
-- 🔭 I’m currently working as a Cloud Solutions Intern @ Sony Research India
-- 🌱 I’m currently learning ReactJS 
+- 🔭 I’m currently working as a Cloud Solutions Intern at *Sony Research India*
+- 🌱 Right now, I'm building a Cloud platform, that can automate the ETL proce
 - ⚡ Fun fact: I can play the guitar ;) 
 
 
