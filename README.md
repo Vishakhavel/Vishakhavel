@@ -1,7 +1,7 @@
 ###  I'm Vishakhavel
 #### I'm a senior year Computer Science Engineering student from VIT Chennai
 I like to think of myself as a generalist. 
-I find myself drawn towards building end-to-end software products and leveraging multiple stacks.
+I find myself drawn towards building end-to-end software products, leveraging multiple stacks.
 
 Skills: AWS / JAVA / REACT / SPRING / EXPRESSJS / DSA / CODING
 
