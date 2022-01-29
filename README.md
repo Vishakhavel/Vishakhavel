@@ -3,7 +3,7 @@
 I like to think of myself as a generalist. 
 I find myself drawn towards building end-to-end software products, leveraging multiple stacks.
 
-Skills: AWS / JAVA / REACT / SPRING / EXPRESSJS / FastAPI / DSA / CODING
+Skills: AWS / Java / React / Spring / Express / FastAPI / DSA / Coding
 
 - 🔭 I’m currently working as a Cloud Solutions Intern at *Sony Research India*
 - ⚡ Fun fact: I can play the guitar ;) 
