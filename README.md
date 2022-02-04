@@ -3,8 +3,8 @@
 I like to think of myself as a generalist. 
 I find myself drawn towards building end-to-end software products, leveraging multiple stacks.
 
-Languages: Java / python / javascript / C 
-Frameworks: Express / FastAPI / Spring / React
+Languages: Java / python / javascript / C <br>
+Frameworks: Express / FastAPI / Spring / React <br>
 Cloud: AWS / GCP
 
 - 🔭 I’m currently working as a Cloud Solutions Intern at *Sony Research India*
