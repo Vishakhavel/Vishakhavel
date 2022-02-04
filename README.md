@@ -5,7 +5,7 @@ I find myself drawn towards building end-to-end software products, leveraging mu
 
 Languages: Java / python / javascript / C 
 Frameworks: Express / FastAPI / Spring / React
-CLoud: AWS / GCP
+Cloud: AWS / GCP
 
 - 🔭 I’m currently working as a Cloud Solutions Intern at *Sony Research India*
 - ⚡ Fun fact: I can play the guitar ;) 
