@@ -1,5 +1,5 @@
 ###  I'm Vishakhavel
-#### I'm a senior year Computer Science Engineering student from VIT Chennai
+#### I have a bachelor's degree in Computer Science Engineering from VIT.
 
 Languages: Java / python / javascript / C / C++ <br>
 Frameworks: Express / FastAPI / Spring / React <br>
