@@ -1,5 +1,5 @@
 ###  I'm Vishakhavel
-#### I have a bachelor's degree in Computer Science Engineering from VIT.
+#### I have a bachelor's degree in Computer Science from VIT.
 
 Languages: Java / python / javascript / C / C++ <br>
 Frameworks: Express / FastAPI / Spring / React <br>
